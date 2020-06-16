@@ -75,7 +75,7 @@ namespace Jarilo
                 }
                 else
                 {
-                    Console.WriteLine("Unknown command.");
+                    Console.WriteLine("Unknown command.  Use --help for a list of commands.");
                 }
                 return;
             }
